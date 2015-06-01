@@ -1,0 +1,30 @@
+body{
+	background-image:url('http://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-6-full.jpg');
+}
+
+.navbar-static-top {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.container{
+	margin-top: 100px;
+}
+
+.container h3{
+	font-family: 'Arial Bold';
+	font-size: 35px;
+	font-weight: bold;
+	line-height: 26.3999996185303px;
+	text-align: center;
+}
+
+.container p{
+	font-family: Georgia;
+	font-size: 20px;
+	text-indent: 50px;
+}
+
+.container .panel-heading{
+	border: 1px solid grey;
+}
