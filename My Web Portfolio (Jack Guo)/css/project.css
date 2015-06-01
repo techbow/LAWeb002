@@ -1,0 +1,18 @@
+body{
+	position: center;  
+	background-image:url('http://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-6-full.jpg');
+	margin-top: 100px;
+}
+
+.container h1{
+	margin-top: 150px; 
+    font-size: 50px;  
+    font-family: 'Shift', sans-serif;
+    font-weight: bold;
+}
+
+.container img{
+	height: 250px;
+	width: 250px;
+
+}

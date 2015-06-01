@@ -1,0 +1,60 @@
+/*.nav a {
+  color: #5a5a5a;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+} */
+
+body{
+	background-image:url('http://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-6-full.jpg');
+}
+.navbar-static-top {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.jumbotron {
+  background-image:url('http://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-5-full.jpg');
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 10px;
+}
+
+.jumbotron .container-fluid {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  position: center;
+  margin-left: 650px;
+}
+
+.jumbotron p {
+  font-family: Georgia;
+  font-size: 20px;
+  color: #EBE4E4;
+  margin-left:700px;
+}
+
+
+.learn-more .container-fluid{
+  position: relative;
+  top:50px;
+  margin-left: 250px;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  text-decoration: none;
+}
